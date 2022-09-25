@@ -1,0 +1,20 @@
+{
+  "name": "webgl-examples",
+  "version": "1.0.0",
+  "description": "一些用webgl实现的有趣小案例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoyoy1203/webgl-examples.git"
+  },
+  "author": "神小夜",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoyoy1203/webgl-examples/issues"
+  },
+  "homepage": "https://github.com/zoyoy1203/webgl-examples#readme",
+  "dependencies": {}
+}
